@@ -42,11 +42,9 @@ What will never be emulated correctly
 
 How to use
 
-Place lolsnes.nds in your flashcart's root folder (or wherever DS ROMs are). In the same folder, create a folder 
-named 'snes', and place your ROMs in there.
+Place lolsnes.nds with your DS ROMs. In the same folder, create a folder named 'snes', and place your ROMs in there.
 
-lolSnes is able to properly detect the ROM type in most cases. Headered and headerless ROMs are supported, both
-LoROM and HiROM.
+lolSnes is able to properly detect the ROM type in most cases. Headered and headerless ROMs are supported, both LoROM and HiROM.
 
-Once it starts, you should see a (not so) fancy ROM selection menu. Select the ROM you want to play, and press
-A or B. Then uh... see what happens. Some games run, others explode spectacularly or just do nothing.
+Once it starts, you should see a pretty basic ROM selection menu. Select the ROM you want to play, and press
+A or B. Then uh... see what happens. Some games will run, others won't.
